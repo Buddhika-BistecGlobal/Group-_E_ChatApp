@@ -55,7 +55,10 @@ class _ChatScreenState extends State<ChatScreen> {
         padding: const EdgeInsets.all(8.0),
         child: Image.asset(AssetsManager.aiMainLogo),
       ),
-      title: const Text("Bistec ChatBOT"),
+      title: const Text("BISTEC ChatBOT",style: TextStyle(
+        color: Colors.white,
+        fontWeight: FontWeight.bold,
+      )),
         actions: [
           IconButton(
             onPressed: () async {

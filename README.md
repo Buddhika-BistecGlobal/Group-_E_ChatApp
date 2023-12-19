@@ -11,7 +11,7 @@ $ flutter pub get
 
 # Note : Need to be added OpenAI API Key
 
-  lib/constants/api_consts.dart
+  FilePath : lib/constants/api_consts.dart
 
  String API_KEY = "Your API KEY";
 

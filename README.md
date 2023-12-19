@@ -1,14 +1,17 @@
-# chat_bot
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
-
 Code Crunch-Group E
 "Bistec ChatBOT"
 
-Note : Need to be added OpenAI API Key
+This project is a starting point for a Flutter application.
+
+# Clone this repository
+$ git clone https://github.com/Buddhika-BistecGlobal/Group-_E_ChatApp.git
+
+# Install packages
+$ flutter pub get 
+
+# Note : Need to be added OpenAI API Key
+lib/constants/api_consts.dart
+String API_KEY = "Your API KEY";
+
+
 
